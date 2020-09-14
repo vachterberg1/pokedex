@@ -1,0 +1,20 @@
+{
+  "name": "Pokedex",
+  "displayName": "Pokedex React Native",
+  "expo": {
+    "name": "Pokedex - React Native",
+    "slug": "expo-fukhaos-pokedex",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "sdkVersion": "37.0.0",
+    "description": "Pokedex - React Native",
+    "githubUrl": "https://github.com/fukhaos/Pokedex-React-Native"
+  }
+}
